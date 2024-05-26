@@ -1,0 +1,31 @@
+.search-btn{
+  margin-top: 2%;
+  width: max-content;
+  display: grid;
+  place-items: center;
+}
+
+.wicon{
+    display: grid;
+  place-items: center;
+}
+.text-input{
+  text-align: center; /* Center text within the input */
+  width: 90%; /* Adjust width as needed */
+  max-width: 600px; /* Optional: Max width for larger screens */
+  margin: 5.5% auto 0 auto; /* Center the input field horizontally */
+  margin: auto;
+
+  font-weight: 500;
+  font-family: sans-serif;
+}
+.accordian{
+  margin-left: 40%; width: 20%;
+}
+.acc-item{
+  border: 1px solid black;
+}
+.acc-title{
+ 
+    text-align: center;
+}
