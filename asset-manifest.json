@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/MantineUtilityApp/static/css/main.8ccaf7c2.css",
+    "main.js": "/MantineUtilityApp/static/js/main.add72b07.js",
+    "static/js/453.05255d93.chunk.js": "/MantineUtilityApp/static/js/453.05255d93.chunk.js",
+    "static/media/haze.png": "/MantineUtilityApp/static/media/haze.3ea7eb6e9f08908fb881.png",
+    "static/media/cloud.png": "/MantineUtilityApp/static/media/cloud.20f353f873a9b27949a9.png",
+    "index.html": "/MantineUtilityApp/index.html",
+    "main.8ccaf7c2.css.map": "/MantineUtilityApp/static/css/main.8ccaf7c2.css.map",
+    "main.add72b07.js.map": "/MantineUtilityApp/static/js/main.add72b07.js.map",
+    "453.05255d93.chunk.js.map": "/MantineUtilityApp/static/js/453.05255d93.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ccaf7c2.css",
+    "static/js/main.add72b07.js"
+  ]
+}
