@@ -9,7 +9,7 @@ const RouterSwitcher = () => {
       <Routes>
         <Route path="/" element={<Practice />}></Route>
 
-        <Route path="*" element={<NotFound />}></Route>
+        <Route path="*" element={<Practice />}></Route>
         <Route path="text-utility" element={<Practice />}></Route>
         <Route path="button" element={<ButtonComponent />}></Route>
       </Routes>
